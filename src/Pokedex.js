@@ -25,6 +25,7 @@ class Pokedex extends React.Component {
     }
 
     typePoke() {
+        // Teste
     }
 
     render() {
