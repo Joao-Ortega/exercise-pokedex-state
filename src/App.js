@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import Button from './Button';
 import pokemons from './data';
 import Pokedex from './Pokedex';
 
